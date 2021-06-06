@@ -2580,7 +2580,7 @@ blockquote strong {
   float: left;
   overflow: hidden;
 }
-.comments-area ol.comment-list li.comment .comment-body .comment-meta .comment-author {
+.comments-area ol.comment-list li.comment .comment-body .comment-meta .ourvalues {
   width: 57px;
   height: 57px;
   -webkit-border-radius: 50%;
@@ -2592,7 +2592,7 @@ blockquote strong {
   -webkit-transition: all 0.6s ease 0s;
           transition: all 0.6s ease 0s;
 }
-.comments-area ol.comment-list li.comment .comment-body .comment-meta .comment-author img {
+.comments-area ol.comment-list li.comment .comment-body .comment-meta .ourvalues img {
   max-width: 100%;
   width: 100%;
 }
@@ -2642,7 +2642,7 @@ blockquote strong {
 .comments-area ol.comment-list li.comment .comment-content cite a {
   color: #087C84;
 }
-.comments-area ol.comment-list li.comment .comment-meta .comment-author {
+.comments-area ol.comment-list li.comment .comment-meta .ourvalues {
   border: 2px solid rgba(0, 0, 0, 0.1);
 }
 ol.children {
